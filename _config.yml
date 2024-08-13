@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Who"
+title                    : "Lab Home"     &&  <---------------------------
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Your Name"    &name "Your Name"
 description              : &description "personal description"
 url                      : https://comp-mechanics.github.io/testpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "Comp-Mechanics/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lab"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
