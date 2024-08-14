@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lab Home"     # <---------------------------
+title                    : "Dr. Who"     # <---------------------------
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "XXXXXXXXXX"      # <---------------------------
   location         : "Earth"
-  employer         : "ABC University"
+  employer         : # "ABC University"
   uri              : # URL
   email            : # "none@example.org" 
 
